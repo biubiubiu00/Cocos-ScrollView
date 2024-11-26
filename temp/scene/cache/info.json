@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "arm64",
+        "cpu": "Apple M1",
+        "version": "Darwin Kernel Version 24.0.0: Tue Sep 24 23:36:26 PDT 2024; root:xnu-11215.1.12~1/RELEASE_ARM64_T8103"
+    },
+    "sceneListMap": {
+        "86fa4308-6427-4f8f-b6cf-639b25c1a688": "/Users/lijian/Documents/Cocos-ScrollView/assets/scenes/Main.scene"
+    },
+    "deviceMd5": "fc218de67e0815afc5aac688cc44f8af"
+}

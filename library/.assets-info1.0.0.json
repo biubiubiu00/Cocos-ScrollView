@@ -1,0 +1,82 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/scripts.meta": {
+      "time": 1732602068220.5374
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/scripts": {
+      "time": 1732602219486.3323,
+      "uuid": "1672f68b-e3d1-4efc-8993-9cf853703da1"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/res.meta": {
+      "time": 1732602073226.059
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/res": {
+      "time": 1732602684590.8557,
+      "uuid": "ad6f43ec-acd5-4ce9-8068-c261233f7730"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/scenes.meta": {
+      "time": 1732602079208.894
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/scenes": {
+      "time": 1732602091963.58,
+      "uuid": "023698b7-8a1e-4fd0-af7b-21849cd5331c"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/scenes/Main.scene.meta": {
+      "time": 1732602091966.9666
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/scenes/Main.scene": {
+      "time": 1732607509143.691,
+      "uuid": "86fa4308-6427-4f8f-b6cf-639b25c1a688"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/scripts/ScrollView.ts.meta": {
+      "time": 1732602171266.2266
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/scripts/ScrollView.ts": {
+      "time": 1732606399900.5547,
+      "uuid": "7065b410-4fb6-45a4-bb37-3d8dc65a8355"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/scripts/ScrollItem.ts.meta": {
+      "time": 1732602219487.8152
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/scripts/ScrollItem.ts": {
+      "time": 1732603246391.485,
+      "uuid": "03e1917e-2466-416a-aa64-7692083b8668"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/res/img.meta": {
+      "time": 1732602510451.6
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/res/img": {
+      "time": 1732602510451.9324,
+      "uuid": "ace32361-77ab-4184-b7c3-990829fb971c"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/res/img/chat_chick.png.meta": {
+      "time": 1732602633479.0015
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/res/img/chat_chick.png": {
+      "time": 1514943694000,
+      "uuid": "3a55cab1-2712-4193-9ff4-14264d5102e1"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/res/prefabs.meta": {
+      "time": 1732602684591.5857
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/res/prefabs": {
+      "time": 1732602689224.3496,
+      "uuid": "79a7858c-20a3-4fde-9fc2-fb6a8dc7ab7a"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/res/prefabs/scrollItem.prefab.meta": {
+      "time": 1732602689225.746
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/res/prefabs/scrollItem.prefab": {
+      "time": 1732607255339.7888,
+      "uuid": "281ed7ca-dc3e-49ea-95a2-3c90d7d6e583"
+    }
+  },
+  "missing": {
+    "7065b410-4fb6-45a4-bb37-3d8dc65a8355": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/scripts/S c.ts",
+      "time": 1732602171264.319,
+      "removeTime": 1732602180047
+    }
+  }
+}

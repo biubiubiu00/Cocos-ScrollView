@@ -1,0 +1,92 @@
+{
+  "1672f68b-e3d1-4efc-8993-9cf853703da1": {
+    "url": "db://assets/scripts",
+    "value": {},
+    "versionCode": 1
+  },
+  "ad6f43ec-acd5-4ce9-8068-c261233f7730": {
+    "url": "db://assets/res",
+    "value": {},
+    "versionCode": 1
+  },
+  "023698b7-8a1e-4fd0-af7b-21849cd5331c": {
+    "url": "db://assets/scenes",
+    "value": {},
+    "versionCode": 1
+  },
+  "86fa4308-6427-4f8f-b6cf-639b25c1a688": {
+    "url": "db://assets/scenes/Main.scene",
+    "value": {
+      "depends": [
+        "86fa4308-6427-4f8f-b6cf-639b25c1a688",
+        "afc47931-f066-46b0-90be-9fe61f213428@f9941",
+        "ffb88a8f-af62-48f4-8f1d-3cb606443a43@f9941",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941",
+        "281ed7ca-dc3e-49ea-95a2-3c90d7d6e583",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": [
+        "7065b410-4fb6-45a4-bb37-3d8dc65a8355"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7065b410-4fb6-45a4-bb37-3d8dc65a8355": {
+    "url": "db://assets/scripts/ScrollView.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "03e1917e-2466-416a-aa64-7692083b8668": {
+    "url": "db://assets/scripts/ScrollItem.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "ace32361-77ab-4184-b7c3-990829fb971c": {
+    "url": "db://assets/res/img",
+    "value": {},
+    "versionCode": 1
+  },
+  "3a55cab1-2712-4193-9ff4-14264d5102e1": {
+    "url": "db://assets/res/img/chat_chick.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "3a55cab1-2712-4193-9ff4-14264d5102e1@6c48a": {
+    "url": "db://assets/res/img/chat_chick.png@6c48a",
+    "value": {
+      "depends": [
+        "3a55cab1-2712-4193-9ff4-14264d5102e1"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3a55cab1-2712-4193-9ff4-14264d5102e1@f9941": {
+    "url": "db://assets/res/img/chat_chick.png@f9941",
+    "value": {
+      "depends": [
+        "3a55cab1-2712-4193-9ff4-14264d5102e1@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "79a7858c-20a3-4fde-9fc2-fb6a8dc7ab7a": {
+    "url": "db://assets/res/prefabs",
+    "value": {},
+    "versionCode": 1
+  },
+  "281ed7ca-dc3e-49ea-95a2-3c90d7d6e583": {
+    "url": "db://assets/res/prefabs/scrollItem.prefab",
+    "value": {
+      "depends": [
+        "3a55cab1-2712-4193-9ff4-14264d5102e1@f9941"
+      ],
+      "dependScripts": [
+        "03e1917e-2466-416a-aa64-7692083b8668"
+      ]
+    },
+    "versionCode": 1
+  }
+}

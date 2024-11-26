@@ -1,0 +1,38 @@
+2024-11-26 11:38:50 - log: Load engine in /Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine
+2024-11-26 11:38:51 - log: Register native engine in /Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/native
+2024-11-26 11:38:51 - log: Request namespace: device-list
+2024-11-26 11:39:10 - log: [Scene] meshopt wasm decoder initialized
+2024-11-26 11:39:10 - log: [Scene] [box2d]:box2d wasm lib loaded.
+2024-11-26 11:39:11 - log: [Scene] [bullet]:bullet wasm lib loaded.
+2024-11-26 11:39:11 - log: [Scene] [PHYSICS]: using builtin.
+2024-11-26 11:39:11 - log: [Scene] Cocos Creator v3.8.4
+2024-11-26 11:39:11 - log: [Scene] Using custom pipeline: Builtin
+2024-11-26 11:39:11 - log: [Scene] [PHYSICS]: switch from builtin to bullet.
+2024-11-26 11:39:11 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to box2d.
+2024-11-26 14:59:54 - info: [PreviewInEditor] 预览环境初始化完毕
+2024-11-26 14:59:55 - log: [PreviewInEditor] meshopt wasm decoder initialized
+2024-11-26 14:59:55 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+2024-11-26 14:59:55 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+2024-11-26 14:59:55 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+2024-11-26 14:59:55 - log: [PreviewInEditor] Cocos Creator v3.8.4
+2024-11-26 14:59:55 - log: [PreviewInEditor] Using custom pipeline: Builtin
+2024-11-26 14:59:55 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
+2024-11-26 14:59:55 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+2024-11-26 15:30:27 - info: [PreviewInEditor] 预览环境初始化完毕
+2024-11-26 15:48:41 - log: [PreviewInEditor] meshopt wasm decoder initialized
+2024-11-26 15:48:41 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+2024-11-26 15:48:41 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+2024-11-26 15:48:42 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+2024-11-26 15:48:42 - log: [PreviewInEditor] Cocos Creator v3.8.4
+2024-11-26 15:48:42 - log: [PreviewInEditor] Using custom pipeline: Builtin
+2024-11-26 15:48:42 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
+2024-11-26 15:48:42 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+2024-11-26 15:51:09 - info: [PreviewInEditor] 预览环境初始化完毕
+2024-11-26 15:53:37 - log: [PreviewInEditor] meshopt wasm decoder initialized
+2024-11-26 15:53:37 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+2024-11-26 15:53:37 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+2024-11-26 15:53:37 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+2024-11-26 15:53:37 - log: [PreviewInEditor] Cocos Creator v3.8.4
+2024-11-26 15:53:37 - log: [PreviewInEditor] Using custom pipeline: Builtin
+2024-11-26 15:53:37 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
+2024-11-26 15:53:37 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
