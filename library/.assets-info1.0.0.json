@@ -5,21 +5,14 @@
       "time": 1732602068220.5374
     },
     "/Users/lijian/Documents/Cocos-ScrollView/assets/scripts": {
-      "time": 1732602219486.3323,
+      "time": 1740968386695.9878,
       "uuid": "1672f68b-e3d1-4efc-8993-9cf853703da1"
-    },
-    "/Users/lijian/Documents/Cocos-ScrollView/assets/res.meta": {
-      "time": 1732602073226.059
-    },
-    "/Users/lijian/Documents/Cocos-ScrollView/assets/res": {
-      "time": 1732602684590.8557,
-      "uuid": "ad6f43ec-acd5-4ce9-8068-c261233f7730"
     },
     "/Users/lijian/Documents/Cocos-ScrollView/assets/scenes.meta": {
       "time": 1732602079208.894
     },
     "/Users/lijian/Documents/Cocos-ScrollView/assets/scenes": {
-      "time": 1732602091963.58,
+      "time": 1740968430676.2058,
       "uuid": "023698b7-8a1e-4fd0-af7b-21849cd5331c"
     },
     "/Users/lijian/Documents/Cocos-ScrollView/assets/scenes/Main.scene.meta": {
@@ -40,36 +33,358 @@
       "time": 1732602219487.8152
     },
     "/Users/lijian/Documents/Cocos-ScrollView/assets/scripts/ScrollItem.ts": {
-      "time": 1732603246391.485,
+      "time": 1732603246391.4849,
       "uuid": "03e1917e-2466-416a-aa64-7692083b8668"
     },
-    "/Users/lijian/Documents/Cocos-ScrollView/assets/res/img.meta": {
-      "time": 1732602510451.6
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/scripts/scrollNew.meta": {
+      "time": 1740968386698.6938
     },
-    "/Users/lijian/Documents/Cocos-ScrollView/assets/res/img": {
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/scripts/scrollNew/ScrollHelper.ts.meta": {
+      "time": 1740968386700.3303
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/scripts/scrollNew": {
+      "time": 1740968386696.6626,
+      "uuid": "16210163-00cd-4a29-ba64-ee6f5a2e7817"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/scripts/scrollNew/ScrollHelper.ts": {
+      "time": 1740970815302.3296,
+      "uuid": "9a26f1e2-d6c8-4f6f-b4b5-2269129c9049"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/scenes/scrollNew.scene.meta": {
+      "time": 1740968426727.2583
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/scenes/scrollNew.scene": {
+      "time": 1740971021032.9883,
+      "uuid": "1b0c07eb-4d12-41bd-91ce-e667af67b84c"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources.meta": {
+      "time": 1740969850364.8137
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/img.meta": {
+      "time": 1732602510451.5999
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs.meta": {
+      "time": 1740968518738.8835
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/prefabs.meta": {
+      "time": 1732602684591.5857
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources": {
+      "time": 1740968518733.1892,
+      "uuid": "ad6f43ec-acd5-4ce9-8068-c261233f7730"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/img": {
       "time": 1732602510451.9324,
       "uuid": "ace32361-77ab-4184-b7c3-990829fb971c"
     },
-    "/Users/lijian/Documents/Cocos-ScrollView/assets/res/img/chat_chick.png.meta": {
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs": {
+      "time": 1740626838144.3386,
+      "uuid": "8177a361-ddb5-4500-8ca6-2cf322b18c86"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/prefabs": {
+      "time": 1740968602087.177,
+      "uuid": "79a7858c-20a3-4fde-9fc2-fb6a8dc7ab7a"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/11.png.meta": {
+      "time": 1740970395935.8484
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/11.png": {
+      "time": 1740626838132.02,
+      "uuid": "9d728e22-24dd-42c9-a977-53c6c809bf8e"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/12.png.meta": {
+      "time": 1740970395990.5076
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/12.png": {
+      "time": 1740626838132.5076,
+      "uuid": "c5b643a7-5443-49cd-a1c4-7f5ee6c55037"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/1.png.meta": {
+      "time": 1740970372405.7468
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/1.png": {
+      "time": 1740626838131.1907,
+      "uuid": "20bd81f2-40a5-4909-a87d-4840b2bf810c"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/10.png.meta": {
+      "time": 1740970395941.037
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/10.png": {
+      "time": 1740626838131.5984,
+      "uuid": "8f02b7eb-c37e-4b37-a35e-06c42389e7db"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/img/chat_chick.png.meta": {
       "time": 1732602633479.0015
     },
-    "/Users/lijian/Documents/Cocos-ScrollView/assets/res/img/chat_chick.png": {
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/img/chat_chick.png": {
       "time": 1514943694000,
       "uuid": "3a55cab1-2712-4193-9ff4-14264d5102e1"
     },
-    "/Users/lijian/Documents/Cocos-ScrollView/assets/res/prefabs.meta": {
-      "time": 1732602684591.5857
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/13.png.meta": {
+      "time": 1740970395996.3176
     },
-    "/Users/lijian/Documents/Cocos-ScrollView/assets/res/prefabs": {
-      "time": 1732602689224.3496,
-      "uuid": "79a7858c-20a3-4fde-9fc2-fb6a8dc7ab7a"
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/13.png": {
+      "time": 1740626838132.942,
+      "uuid": "5fd56d24-0fed-484f-8449-2185d19aa59b"
     },
-    "/Users/lijian/Documents/Cocos-ScrollView/assets/res/prefabs/scrollItem.prefab.meta": {
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/14.png.meta": {
+      "time": 1740970395990.1562
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/14.png": {
+      "time": 1740626838133.3054,
+      "uuid": "7961d315-b5e4-4996-975d-793836f9e045"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/15.png.meta": {
+      "time": 1740970396003.379
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/15.png": {
+      "time": 1740626838133.6587,
+      "uuid": "c1ae23d0-9b38-4f88-821b-1f8a3ca64a70"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/16.png.meta": {
+      "time": 1740970396010.5586
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/16.png": {
+      "time": 1740626838134.0305,
+      "uuid": "cef5a485-1aa0-4a02-9005-6e65e61cd2e8"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/17.png.meta": {
+      "time": 1740970396070.4248
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/17.png": {
+      "time": 1740626838134.3975,
+      "uuid": "804ec3cf-88fd-4f5a-9a18-656d5b42fd5e"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/18.png.meta": {
+      "time": 1740970396072.2615
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/18.png": {
+      "time": 1740626838134.6646,
+      "uuid": "972a22ad-1626-44ae-b155-0f5b96187e85"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/19.png.meta": {
+      "time": 1740970396067.7085
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/19.png": {
+      "time": 1740626838134.9998,
+      "uuid": "9a4c9894-aaef-466c-a4ec-c77425fd9b2d"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/2.png.meta": {
+      "time": 1740970395896.418
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/2.png": {
+      "time": 1740626838135.3218,
+      "uuid": "01e71d6b-4b67-4635-b974-c73ea5e1653c"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/20.png.meta": {
+      "time": 1740970396076.2363
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/20.png": {
+      "time": 1740626838135.6262,
+      "uuid": "7642e522-e737-40df-904b-2b4dea706b53"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/21.png.meta": {
+      "time": 1740970396131.0403
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/21.png": {
+      "time": 1740626838135.9458,
+      "uuid": "d187fbf9-c96f-4d96-8968-8774ffa43204"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/22.png.meta": {
+      "time": 1740970396133.3738
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/22.png": {
+      "time": 1740626838136.3176,
+      "uuid": "29488a1e-532e-4f29-842e-0b6c57dc4693"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/23.png.meta": {
+      "time": 1740970396137.6582
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/23.png": {
+      "time": 1740626838136.695,
+      "uuid": "fff9ed7a-cd84-4a18-811a-02700c60cd5a"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/24.png.meta": {
+      "time": 1740970396133.0823
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/24.png": {
+      "time": 1740626838137.012,
+      "uuid": "ed27c4d3-f558-4697-9d32-f00eca70108f"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/25.png.meta": {
+      "time": 1740970396132.0808
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/25.png": {
+      "time": 1740626838137.3389,
+      "uuid": "c11f1ce8-edad-4037-a295-8b93ef6c86fe"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/26.png.meta": {
+      "time": 1740970396164.8667
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/26.png": {
+      "time": 1740626838137.7473,
+      "uuid": "05af58ac-e578-481e-962a-3a8a7535057f"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/27.png.meta": {
+      "time": 1740970396167.3289
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/27.png": {
+      "time": 1740626838138.0842,
+      "uuid": "7a4543d4-664e-424e-abdc-2fce1ea68703"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/28.png.meta": {
+      "time": 1740970396166.1416
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/28.png": {
+      "time": 1740626838138.3464,
+      "uuid": "92a7ffe9-c92f-4f65-95a2-cae97af32b87"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/3.png.meta": {
+      "time": 1740970395909.0146
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/3.png": {
+      "time": 1740626838138.911,
+      "uuid": "cfced953-94ae-4956-a9fa-6ffe998d1da1"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/29.png.meta": {
+      "time": 1740970396168.5015
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/29.png": {
+      "time": 1740626838138.59,
+      "uuid": "224f08d7-a35e-4577-beb4-ed2739bd5f77"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/30.png.meta": {
+      "time": 1740970396167.0483
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/30.png": {
+      "time": 1740626838139.3083,
+      "uuid": "d61a5846-bff3-4f3e-8b06-c44f7184c5e6"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/31.png.meta": {
+      "time": 1740970396225.0579
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/31.png": {
+      "time": 1740626838139.56,
+      "uuid": "6bb8b90f-4c76-4305-91f1-5f37622a7b7b"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/33.png.meta": {
+      "time": 1740970396226.2698
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/33.png": {
+      "time": 1740626838140.1465,
+      "uuid": "98e93620-0a02-4d9c-9702-a267e72e1f7d"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/32.png.meta": {
+      "time": 1740970396224.6772
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/32.png": {
+      "time": 1740626838139.8245,
+      "uuid": "475ef328-2d86-47ed-9943-d1e783b2a796"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/34.png.meta": {
+      "time": 1740970396223.4783
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/34.png": {
+      "time": 1740626838140.3977,
+      "uuid": "3ee26da2-8cea-4b25-83b4-f856f01c2eed"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/35.png.meta": {
+      "time": 1740970396228.8447
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/35.png": {
+      "time": 1740626838140.6636,
+      "uuid": "8e0b5122-284d-4230-ae46-72d1400b0ce2"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/36.png.meta": {
+      "time": 1740970396260.2095
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/36.png": {
+      "time": 1740626838141.0657,
+      "uuid": "d2c5a4c1-46ee-4a97-91d0-ea9a8831d8d1"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/37.png.meta": {
+      "time": 1740970396262.0308
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/37.png": {
+      "time": 1740626838141.388,
+      "uuid": "5b273a10-095f-43ad-bce8-1d43822efab0"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/38.png.meta": {
+      "time": 1740970396259.8418
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/38.png": {
+      "time": 1740626838141.7825,
+      "uuid": "31297ab7-fa53-49e8-a981-20e281bde031"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/39.png.meta": {
+      "time": 1740970396260.6743
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/39.png": {
+      "time": 1740626838142.2007,
+      "uuid": "35156704-4720-401e-8eba-c1ba3696f508"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/4.png.meta": {
+      "time": 1740970395899.102
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/4.png": {
+      "time": 1740626838142.463,
+      "uuid": "14f10337-34b2-4c3c-b95a-c64b8f1cb151"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/5.png.meta": {
+      "time": 1740970395896.791
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/5.png": {
+      "time": 1740626838143.0496,
+      "uuid": "f3645cfb-6e27-4d83-a053-4533f141c3bc"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/40.png.meta": {
+      "time": 1740970396267.4534
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/40.png": {
+      "time": 1740626838142.7505,
+      "uuid": "05b7ac43-63b7-4cfe-ae8d-035a1ad9ed5d"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/7.png.meta": {
+      "time": 1740970395937.8694
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/7.png": {
+      "time": 1740626838143.6846,
+      "uuid": "aab85b63-e6da-4c50-a31e-38aa406d0706"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/6.png.meta": {
+      "time": 1740970395908.181
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/6.png": {
+      "time": 1740626838143.3325,
+      "uuid": "f97a7e8c-7e43-4ea5-b539-5e3c2353d5b3"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/prefabs/item.prefab.meta": {
+      "time": 1740968602089.6929
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/prefabs/item.prefab": {
+      "time": 1740970990887.429,
+      "uuid": "62160f30-6c62-43b1-b37f-4a87cbacf570"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/8.png.meta": {
+      "time": 1740970395935.4207
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/8.png": {
+      "time": 1740626838143.9297,
+      "uuid": "bfc97021-42b7-439a-a89e-600fbed394f5"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/prefabs/scrollItem.prefab.meta": {
       "time": 1732602689225.746
     },
-    "/Users/lijian/Documents/Cocos-ScrollView/assets/res/prefabs/scrollItem.prefab": {
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/prefabs/scrollItem.prefab": {
       "time": 1732607255339.7888,
       "uuid": "281ed7ca-dc3e-49ea-95a2-3c90d7d6e583"
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/9.png.meta": {
+      "time": 1740970395937.205
+    },
+    "/Users/lijian/Documents/Cocos-ScrollView/assets/resources/imgs/9.png": {
+      "time": 1740626838144.2805,
+      "uuid": "be091107-f58f-451b-9c8e-1bd49de78ef9"
     }
   },
   "missing": {
@@ -77,6 +392,246 @@
       "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/scripts/S c.ts",
       "time": 1732602171264.319,
       "removeTime": 1732602180047
+    },
+    "1b0c07eb-4d12-41bd-91ce-e667af67b84c": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/scrollNew.scene",
+      "time": 1740968426725.4294,
+      "removeTime": 1740968430677
+    },
+    "ad6f43ec-acd5-4ce9-8068-c261233f7730": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res",
+      "time": 1740968518733.1892,
+      "removeTime": 1740969850348
+    },
+    "ace32361-77ab-4184-b7c3-990829fb971c": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/img",
+      "time": 1732602510451.9324,
+      "removeTime": 1740969850349
+    },
+    "8177a361-ddb5-4500-8ca6-2cf322b18c86": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs",
+      "time": 1740626838144.3386,
+      "removeTime": 1740969850349
+    },
+    "79a7858c-20a3-4fde-9fc2-fb6a8dc7ab7a": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/prefabs",
+      "time": 1740968602087.177,
+      "removeTime": 1740969850349
+    },
+    "3a55cab1-2712-4193-9ff4-14264d5102e1": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/img/chat_chick.png",
+      "time": 1514943694000,
+      "removeTime": 1740969850350
+    },
+    "20bd81f2-40a5-4909-a87d-4840b2bf810c": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/1.png",
+      "time": 1740626838131.1907,
+      "removeTime": 1740969850351
+    },
+    "8f02b7eb-c37e-4b37-a35e-06c42389e7db": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/10.png",
+      "time": 1740626838131.5984,
+      "removeTime": 1740969850351
+    },
+    "9d728e22-24dd-42c9-a977-53c6c809bf8e": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/11.png",
+      "time": 1740626838132.02,
+      "removeTime": 1740969850352
+    },
+    "c5b643a7-5443-49cd-a1c4-7f5ee6c55037": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/12.png",
+      "time": 1740626838132.5076,
+      "removeTime": 1740969850352
+    },
+    "5fd56d24-0fed-484f-8449-2185d19aa59b": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/13.png",
+      "time": 1740626838132.942,
+      "removeTime": 1740969850352
+    },
+    "7961d315-b5e4-4996-975d-793836f9e045": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/14.png",
+      "time": 1740626838133.3054,
+      "removeTime": 1740969850353
+    },
+    "c1ae23d0-9b38-4f88-821b-1f8a3ca64a70": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/15.png",
+      "time": 1740626838133.6587,
+      "removeTime": 1740969850353
+    },
+    "cef5a485-1aa0-4a02-9005-6e65e61cd2e8": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/16.png",
+      "time": 1740626838134.0305,
+      "removeTime": 1740969850353
+    },
+    "804ec3cf-88fd-4f5a-9a18-656d5b42fd5e": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/17.png",
+      "time": 1740626838134.3975,
+      "removeTime": 1740969850353
+    },
+    "972a22ad-1626-44ae-b155-0f5b96187e85": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/18.png",
+      "time": 1740626838134.6646,
+      "removeTime": 1740969850354
+    },
+    "9a4c9894-aaef-466c-a4ec-c77425fd9b2d": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/19.png",
+      "time": 1740626838134.9998,
+      "removeTime": 1740969850354
+    },
+    "01e71d6b-4b67-4635-b974-c73ea5e1653c": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/2.png",
+      "time": 1740626838135.3218,
+      "removeTime": 1740969850354
+    },
+    "7642e522-e737-40df-904b-2b4dea706b53": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/20.png",
+      "time": 1740626838135.6262,
+      "removeTime": 1740969850354
+    },
+    "d187fbf9-c96f-4d96-8968-8774ffa43204": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/21.png",
+      "time": 1740626838135.9458,
+      "removeTime": 1740969850354
+    },
+    "29488a1e-532e-4f29-842e-0b6c57dc4693": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/22.png",
+      "time": 1740626838136.3176,
+      "removeTime": 1740969850355
+    },
+    "fff9ed7a-cd84-4a18-811a-02700c60cd5a": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/23.png",
+      "time": 1740626838136.695,
+      "removeTime": 1740969850355
+    },
+    "ed27c4d3-f558-4697-9d32-f00eca70108f": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/24.png",
+      "time": 1740626838137.012,
+      "removeTime": 1740969850355
+    },
+    "c11f1ce8-edad-4037-a295-8b93ef6c86fe": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/25.png",
+      "time": 1740626838137.3389,
+      "removeTime": 1740969850355
+    },
+    "05af58ac-e578-481e-962a-3a8a7535057f": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/26.png",
+      "time": 1740626838137.7473,
+      "removeTime": 1740969850356
+    },
+    "7a4543d4-664e-424e-abdc-2fce1ea68703": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/27.png",
+      "time": 1740626838138.0842,
+      "removeTime": 1740969850356
+    },
+    "92a7ffe9-c92f-4f65-95a2-cae97af32b87": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/28.png",
+      "time": 1740626838138.3464,
+      "removeTime": 1740969850356
+    },
+    "224f08d7-a35e-4577-beb4-ed2739bd5f77": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/29.png",
+      "time": 1740626838138.59,
+      "removeTime": 1740969850356
+    },
+    "cfced953-94ae-4956-a9fa-6ffe998d1da1": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/3.png",
+      "time": 1740626838138.911,
+      "removeTime": 1740969850357
+    },
+    "d61a5846-bff3-4f3e-8b06-c44f7184c5e6": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/30.png",
+      "time": 1740626838139.3083,
+      "removeTime": 1740969850357
+    },
+    "6bb8b90f-4c76-4305-91f1-5f37622a7b7b": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/31.png",
+      "time": 1740626838139.56,
+      "removeTime": 1740969850357
+    },
+    "475ef328-2d86-47ed-9943-d1e783b2a796": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/32.png",
+      "time": 1740626838139.8245,
+      "removeTime": 1740969850357
+    },
+    "98e93620-0a02-4d9c-9702-a267e72e1f7d": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/33.png",
+      "time": 1740626838140.1465,
+      "removeTime": 1740969850358
+    },
+    "3ee26da2-8cea-4b25-83b4-f856f01c2eed": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/34.png",
+      "time": 1740626838140.3977,
+      "removeTime": 1740969850358
+    },
+    "8e0b5122-284d-4230-ae46-72d1400b0ce2": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/35.png",
+      "time": 1740626838140.6636,
+      "removeTime": 1740969850358
+    },
+    "d2c5a4c1-46ee-4a97-91d0-ea9a8831d8d1": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/36.png",
+      "time": 1740626838141.0657,
+      "removeTime": 1740969850358
+    },
+    "5b273a10-095f-43ad-bce8-1d43822efab0": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/37.png",
+      "time": 1740626838141.388,
+      "removeTime": 1740969850358
+    },
+    "31297ab7-fa53-49e8-a981-20e281bde031": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/38.png",
+      "time": 1740626838141.7825,
+      "removeTime": 1740969850359
+    },
+    "35156704-4720-401e-8eba-c1ba3696f508": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/39.png",
+      "time": 1740626838142.2007,
+      "removeTime": 1740969850359
+    },
+    "14f10337-34b2-4c3c-b95a-c64b8f1cb151": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/4.png",
+      "time": 1740626838142.463,
+      "removeTime": 1740969850359
+    },
+    "05b7ac43-63b7-4cfe-ae8d-035a1ad9ed5d": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/40.png",
+      "time": 1740626838142.7505,
+      "removeTime": 1740969850359
+    },
+    "f3645cfb-6e27-4d83-a053-4533f141c3bc": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/5.png",
+      "time": 1740626838143.0496,
+      "removeTime": 1740969850359
+    },
+    "f97a7e8c-7e43-4ea5-b539-5e3c2353d5b3": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/6.png",
+      "time": 1740626838143.3325,
+      "removeTime": 1740969850359
+    },
+    "aab85b63-e6da-4c50-a31e-38aa406d0706": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/7.png",
+      "time": 1740626838143.6846,
+      "removeTime": 1740969850360
+    },
+    "bfc97021-42b7-439a-a89e-600fbed394f5": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/8.png",
+      "time": 1740626838143.9297,
+      "removeTime": 1740969850360
+    },
+    "be091107-f58f-451b-9c8e-1bd49de78ef9": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/imgs/9.png",
+      "time": 1740626838144.2805,
+      "removeTime": 1740969850360
+    },
+    "62160f30-6c62-43b1-b37f-4a87cbacf570": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/prefabs/item.prefab",
+      "time": 1740969737190.2798,
+      "removeTime": 1740969850360
+    },
+    "281ed7ca-dc3e-49ea-95a2-3c90d7d6e583": {
+      "path": "/Users/lijian/Documents/Cocos-ScrollView/assets/res/prefabs/scrollItem.prefab",
+      "time": 1732607255339.7888,
+      "removeTime": 1740969850361
     }
   }
 }

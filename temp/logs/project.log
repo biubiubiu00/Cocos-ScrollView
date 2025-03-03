@@ -1,38 +1,314 @@
-2024-11-26 11:38:50 - log: Load engine in /Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine
-2024-11-26 11:38:51 - log: Register native engine in /Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/native
-2024-11-26 11:38:51 - log: Request namespace: device-list
-2024-11-26 11:39:10 - log: [Scene] meshopt wasm decoder initialized
-2024-11-26 11:39:10 - log: [Scene] [box2d]:box2d wasm lib loaded.
-2024-11-26 11:39:11 - log: [Scene] [bullet]:bullet wasm lib loaded.
-2024-11-26 11:39:11 - log: [Scene] [PHYSICS]: using builtin.
-2024-11-26 11:39:11 - log: [Scene] Cocos Creator v3.8.4
-2024-11-26 11:39:11 - log: [Scene] Using custom pipeline: Builtin
-2024-11-26 11:39:11 - log: [Scene] [PHYSICS]: switch from builtin to bullet.
-2024-11-26 11:39:11 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to box2d.
-2024-11-26 14:59:54 - info: [PreviewInEditor] 预览环境初始化完毕
-2024-11-26 14:59:55 - log: [PreviewInEditor] meshopt wasm decoder initialized
-2024-11-26 14:59:55 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
-2024-11-26 14:59:55 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
-2024-11-26 14:59:55 - log: [PreviewInEditor] [PHYSICS]: using builtin.
-2024-11-26 14:59:55 - log: [PreviewInEditor] Cocos Creator v3.8.4
-2024-11-26 14:59:55 - log: [PreviewInEditor] Using custom pipeline: Builtin
-2024-11-26 14:59:55 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
-2024-11-26 14:59:55 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
-2024-11-26 15:30:27 - info: [PreviewInEditor] 预览环境初始化完毕
-2024-11-26 15:48:41 - log: [PreviewInEditor] meshopt wasm decoder initialized
-2024-11-26 15:48:41 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
-2024-11-26 15:48:41 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
-2024-11-26 15:48:42 - log: [PreviewInEditor] [PHYSICS]: using builtin.
-2024-11-26 15:48:42 - log: [PreviewInEditor] Cocos Creator v3.8.4
-2024-11-26 15:48:42 - log: [PreviewInEditor] Using custom pipeline: Builtin
-2024-11-26 15:48:42 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
-2024-11-26 15:48:42 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
-2024-11-26 15:51:09 - info: [PreviewInEditor] 预览环境初始化完毕
-2024-11-26 15:53:37 - log: [PreviewInEditor] meshopt wasm decoder initialized
-2024-11-26 15:53:37 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
-2024-11-26 15:53:37 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
-2024-11-26 15:53:37 - log: [PreviewInEditor] [PHYSICS]: using builtin.
-2024-11-26 15:53:37 - log: [PreviewInEditor] Cocos Creator v3.8.4
-2024-11-26 15:53:37 - log: [PreviewInEditor] Using custom pipeline: Builtin
-2024-11-26 15:53:37 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
-2024-11-26 15:53:37 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+2025-3-3 10:16:38 - log: Load engine in /Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine
+2025-3-3 10:16:38 - log: Register native engine in /Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/native
+2025-3-3 10:16:39 - log: Request namespace: device-list
+2025-3-3 10:16:45 - info: [PreviewInEditor] 预览环境初始化完毕
+2025-3-3 10:16:47 - log: [Scene] meshopt wasm decoder initialized
+2025-3-3 10:16:48 - log: [Scene] [box2d]:box2d wasm lib loaded.
+2025-3-3 10:16:48 - log: [Scene] [bullet]:bullet wasm lib loaded.
+2025-3-3 10:16:48 - log: [Scene] [PHYSICS]: using builtin.
+2025-3-3 10:16:48 - log: [Scene] Cocos Creator v3.8.4
+2025-3-3 10:16:48 - log: [Scene] Using custom pipeline: Builtin
+2025-3-3 10:16:48 - log: [Scene] [PHYSICS]: switch from builtin to bullet.
+2025-3-3 10:16:48 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to box2d.
+2025-3-3 10:17:00 - log: [PreviewInEditor] meshopt wasm decoder initialized
+2025-3-3 10:17:00 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+2025-3-3 10:17:00 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+2025-3-3 10:17:01 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+2025-3-3 10:17:01 - log: [PreviewInEditor] Cocos Creator v3.8.4
+2025-3-3 10:17:01 - log: [PreviewInEditor] Using custom pipeline: Builtin
+2025-3-3 10:17:01 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
+2025-3-3 10:17:01 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+2025-3-3 10:17:10 - info: [PreviewInEditor] 预览环境初始化完毕
+2025-3-3 10:19:46 - warn: [Scene] The type of "ScrollHelper.dir" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "ScrollHelper.dir" must be CCFloat or CCInteger, not Number.
+    at console.warn (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@sentry/src/instrument/console.ts:40:20)
+    at warn (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:154538:12)
+    at warnID (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:154726:5)
+    at parseType (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:270658:11)
+    at preprocessAttrs (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:270763:11)
+    at declareProperties (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:135531:7)
+    at CCClass (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:135560:5)
+    at eval (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:268588:21)
+    at ccclass (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:269596:16)
+    at Object.execute (file:///Users/lijian/Documents/Cocos-ScrollView/temp/programming/packer-driver/targets/editor/chunks/cb/file:/Users/lijian/Documents/Cocos-ScrollView/assets/scripts/scrollNew/ScrollHelper.ts:17:2)
+    at doExec (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+    at /Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/lijian/Documents/Cocos-ScrollView/temp/programming/packer-driver/targets/editor/chunks/6d/cce:/internal/x/prerequisite-imports:8:13
+    at Object.execute (file:///Users/lijian/Documents/Cocos-ScrollView/temp/programming/packer-driver/targets/editor/chunks/6d/cce:/internal/x/prerequisite-imports:4:1)
+    at Executor._importPrerequisiteModules (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:316:13)
+    at Executor.reload (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:203:13)
+    at GlobalEnv.record (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:1732)
+2025-3-3 10:31:39 - warn: [Scene] The type of "ScrollHelper.dir" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "ScrollHelper.dir" must be CCFloat or CCInteger, not Number.
+    at console.warn (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@sentry/src/instrument/console.ts:40:20)
+    at warn (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:154538:12)
+    at warnID (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:154726:5)
+    at parseType (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:270658:11)
+    at preprocessAttrs (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:270763:11)
+    at declareProperties (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:135531:7)
+    at CCClass (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:135560:5)
+    at eval (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:268588:21)
+    at proxyFn (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:269596:16)
+    at Object.execute (file:///Users/lijian/Documents/Cocos-ScrollView/temp/programming/packer-driver/targets/editor/chunks/cb/cbc0b4494ac12a1040076085c4dbe5c1adf15858.js:57:145)
+    at doExec (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+    at /Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/lijian/Documents/Cocos-ScrollView/temp/programming/packer-driver/targets/editor/chunks/6d/cce:/internal/x/prerequisite-imports:8:13
+    at Object.execute (file:///Users/lijian/Documents/Cocos-ScrollView/temp/programming/packer-driver/targets/editor/chunks/6d/cce:/internal/x/prerequisite-imports:4:1)
+    at Executor._importPrerequisiteModules (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:316:13)
+    at Executor.reload (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:203:13)
+    at GlobalEnv.record (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:1732)
+2025-3-3 10:42:31 - log: [PreviewInEditor] meshopt wasm decoder initialized
+2025-3-3 10:42:31 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+2025-3-3 10:42:31 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+2025-3-3 10:42:31 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+2025-3-3 10:42:32 - log: [PreviewInEditor] Cocos Creator v3.8.4
+2025-3-3 10:42:32 - log: [PreviewInEditor] Using custom pipeline: Builtin
+2025-3-3 10:42:32 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
+2025-3-3 10:42:32 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+2025-3-3 10:42:33 - error: [PreviewInEditor] Cannot read property 'getComponent' of nullTypeError: Cannot read property 'getComponent' of null
+    at ScrollHelper.onEnable (file:///Users/lijian/Documents/Cocos-ScrollView/temp/programming/packer-driver/targets/editor/chunks/cb/file:/Users/lijian/Documents/Cocos-ScrollView/assets/scripts/scrollNew/ScrollHelper.ts:66:26)
+    at eval (eval at tryCatchFunctor_EDITOR (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js), <anonymous>:4:10)
+    at OneOffInvoker.eval [as _invoke] (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:58367:13)
+    at OneOffInvoker.invoke (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:58287:16)
+    at NodeActivator.activateNode (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:60305:29)
+    at Scene._activate (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:67683:44)
+    at Director.runSceneImmediate (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:10566:17)
+    at /Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scene/utils.ccc:1:1367
+    at eval (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:116426:17)
+    at eval (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:123992:9)
+    at eval (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:159333:9)
+    at sentryWrapped (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/src/helpers.ts:100:17)
+2025-3-3 10:44:35 - info: [PreviewInEditor] 预览环境初始化完毕
+2025-3-3 10:44:35 - log: [PreviewInEditor] meshopt wasm decoder initialized
+2025-3-3 10:44:35 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+2025-3-3 10:44:36 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+2025-3-3 10:44:36 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+2025-3-3 10:44:36 - log: [PreviewInEditor] Cocos Creator v3.8.4
+2025-3-3 10:44:36 - log: [PreviewInEditor] Using custom pipeline: Builtin
+2025-3-3 10:44:36 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
+2025-3-3 10:44:36 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+2025-3-3 10:46:25 - info: [PreviewInEditor] 预览环境初始化完毕
+2025-3-3 10:46:32 - log: [PreviewInEditor] meshopt wasm decoder initialized
+2025-3-3 10:46:32 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+2025-3-3 10:46:32 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+2025-3-3 10:46:33 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+2025-3-3 10:46:33 - log: [PreviewInEditor] Cocos Creator v3.8.4
+2025-3-3 10:46:33 - log: [PreviewInEditor] Using custom pipeline: Builtin
+2025-3-3 10:46:33 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
+2025-3-3 10:46:33 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+2025-3-3 10:46:42 - info: [PreviewInEditor] 预览环境初始化完毕
+2025-3-3 10:46:47 - log: [PreviewInEditor] meshopt wasm decoder initialized
+2025-3-3 10:46:47 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+2025-3-3 10:46:47 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+2025-3-3 10:46:47 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+2025-3-3 10:46:47 - log: [PreviewInEditor] Cocos Creator v3.8.4
+2025-3-3 10:46:47 - log: [PreviewInEditor] Using custom pipeline: Builtin
+2025-3-3 10:46:47 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
+2025-3-3 10:46:47 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+2025-3-3 10:47:16 - info: [PreviewInEditor] 预览环境初始化完毕
+2025-3-3 10:47:33 - log: [PreviewInEditor] meshopt wasm decoder initialized
+2025-3-3 10:47:33 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+2025-3-3 10:47:33 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+2025-3-3 10:47:33 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+2025-3-3 10:47:34 - log: [PreviewInEditor] Cocos Creator v3.8.4
+2025-3-3 10:47:34 - log: [PreviewInEditor] Using custom pipeline: Builtin
+2025-3-3 10:47:34 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
+2025-3-3 10:47:34 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+2025-3-3 10:48:27 - log: [PreviewInEditor] Cannot read property 'setStencilStage' of nullTypeError: Cannot read property 'setStencilStage' of null
+    at Graphics.set stencilStage [as stencilStage] (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98723:30)
+    at Mask.set inverted [as inverted] (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:94590:37)
+    at decodePatch (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/dump/decode.ccc:1:7006)
+    at decodeComponents (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/dump/decode.ccc:1:2880)
+    at decodeNode (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/dump/decode.ccc:1:4483)
+    at SceneUndoCommand.applyData (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/undo/scene.ccc:1:722)
+    at SceneUndoCommand.undo (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/undo/scene.ccc:1:616)
+    at SceneUndoCommand.perform (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/undo/base.ccc:1:209)
+    at SceneUndoManager.undo (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/undo/base.ccc:1:752)
+    at SceneUndoManager.undo (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/undo/scene.ccc:1:3833)
+    at PreviewSceneFacade.undo (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/general-scene-facade.ccc:1:12889)
+    at SceneFacadeManager.undo (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/scene-facade-manager.ccc:1:15384)
+2025-3-3 10:48:27 - error: [Window] Cannot read property 'setStencilStage' of nullTypeError: Cannot read property 'setStencilStage' of null
+    at <process:scene>
+    at Graphics.set stencilStage [as stencilStage] (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98723:30)
+    at Mask.set inverted [as inverted] (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:94590:37)
+    at decodePatch (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/dump/decode.ccc:1:7006)
+    at decodeComponents (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/dump/decode.ccc:1:2880)
+    at decodeNode (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/dump/decode.ccc:1:4483)
+    at SceneUndoCommand.applyData (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/undo/scene.ccc:1:722)
+    at SceneUndoCommand.undo (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/undo/scene.ccc:1:616)
+    at SceneUndoCommand.perform (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/undo/base.ccc:1:209)
+    at SceneUndoManager.undo (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/undo/base.ccc:1:752)
+    at SceneUndoManager.undo (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/undo/scene.ccc:1:3833)
+    at PreviewSceneFacade.undo (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/general-scene-facade.ccc:1:12889)
+    at SceneFacadeManager.undo (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/scene-facade-manager.ccc:1:15384)
+2025-3-3 10:48:28 - log: [PreviewInEditor] Cannot read property 'setStencilStage' of nullTypeError: Cannot read property 'setStencilStage' of null
+    at Graphics.set stencilStage [as stencilStage] (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98723:30)
+    at Mask.set inverted [as inverted] (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:94590:37)
+    at decodePatch (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/dump/decode.ccc:1:7006)
+    at decodeComponents (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/dump/decode.ccc:1:2880)
+    at decodeNode (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/dump/decode.ccc:1:4483)
+    at SceneUndoCommand.applyData (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/undo/scene.ccc:1:722)
+    at SceneUndoCommand.undo (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/undo/scene.ccc:1:616)
+    at SceneUndoCommand.perform (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/undo/base.ccc:1:209)
+    at SceneUndoManager.undo (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/undo/base.ccc:1:752)
+    at SceneUndoManager.undo (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/undo/scene.ccc:1:3833)
+    at PreviewSceneFacade.undo (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/general-scene-facade.ccc:1:12889)
+    at SceneFacadeManager.undo (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/scene-facade-manager.ccc:1:15384)
+2025-3-3 10:48:28 - error: [Window] Cannot read property 'setStencilStage' of nullTypeError: Cannot read property 'setStencilStage' of null
+    at <process:scene>
+    at Graphics.set stencilStage [as stencilStage] (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98723:30)
+    at Mask.set inverted [as inverted] (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:94590:37)
+    at decodePatch (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/dump/decode.ccc:1:7006)
+    at decodeComponents (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/dump/decode.ccc:1:2880)
+    at decodeNode (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/dump/decode.ccc:1:4483)
+    at SceneUndoCommand.applyData (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/undo/scene.ccc:1:722)
+    at SceneUndoCommand.undo (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/undo/scene.ccc:1:616)
+    at SceneUndoCommand.perform (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/undo/base.ccc:1:209)
+    at SceneUndoManager.undo (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/undo/base.ccc:1:752)
+    at SceneUndoManager.undo (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/export/undo/scene.ccc:1:3833)
+    at PreviewSceneFacade.undo (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/general-scene-facade.ccc:1:12889)
+    at SceneFacadeManager.undo (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/scene-facade-manager.ccc:1:15384)
+2025-3-3 10:48:31 - info: [PreviewInEditor] 预览环境初始化完毕
+2025-3-3 10:48:39 - log: [PreviewInEditor] meshopt wasm decoder initialized
+2025-3-3 10:48:39 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+2025-3-3 10:48:40 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+2025-3-3 10:48:40 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+2025-3-3 10:48:40 - log: [PreviewInEditor] Cocos Creator v3.8.4
+2025-3-3 10:48:40 - log: [PreviewInEditor] Using custom pipeline: Builtin
+2025-3-3 10:48:40 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
+2025-3-3 10:48:40 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+2025-3-3 10:50:00 - info: [PreviewInEditor] 预览环境初始化完毕
+2025-3-3 10:50:00 - log: [PreviewInEditor] meshopt wasm decoder initialized
+2025-3-3 10:50:00 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+2025-3-3 10:50:00 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+2025-3-3 10:50:00 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+2025-3-3 10:50:00 - log: [PreviewInEditor] Cocos Creator v3.8.4
+2025-3-3 10:50:00 - log: [PreviewInEditor] Using custom pipeline: Builtin
+2025-3-3 10:50:00 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
+2025-3-3 10:50:00 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+2025-3-3 10:51:55 - info: [PreviewInEditor] 预览环境初始化完毕
+2025-3-3 10:53:33 - log: [PreviewInEditor] meshopt wasm decoder initialized
+2025-3-3 10:53:33 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+2025-3-3 10:53:33 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+2025-3-3 10:53:33 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+2025-3-3 10:53:33 - log: [PreviewInEditor] Cocos Creator v3.8.4
+2025-3-3 10:53:33 - log: [PreviewInEditor] Using custom pipeline: Builtin
+2025-3-3 10:53:34 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
+2025-3-3 10:53:34 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+2025-3-3 10:58:43 - error: [Window] Cannot read property 'toString' of nullTypeError: Cannot read property 'toString' of null
+    at Object.setVecInput (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/dump.ccc:1:5591)
+    at /Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/types/vec3.ccc:1:154
+    at NodeList.forEach (<anonymous>)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/types/vec3.ccc:1:140)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/dump.ccc:1:4590)
+    at HTMLElement.updateRender (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/creator-ui-kit/dist/renderer.ccc:2:1611092)
+    at HTMLElement.render (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/creator-ui-kit/dist/renderer.ccc:2:1610771)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/inspector/contributions/node.js:1177:34)
+    at Object.<anonymous> (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/inspector/contributions/node.js:499:46)
+2025-3-3 10:58:43 - error: [Window] Cannot read property 'toString' of nullTypeError: Cannot read property 'toString' of null
+    at Object.setVecInput (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/dump.ccc:1:5591)
+    at /Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/types/vec3.ccc:1:154
+    at NodeList.forEach (<anonymous>)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/types/vec3.ccc:1:140)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/dump.ccc:1:4590)
+    at HTMLElement.updateRender (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/creator-ui-kit/dist/renderer.ccc:2:1611092)
+    at HTMLElement.render (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/creator-ui-kit/dist/renderer.ccc:2:1610771)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/inspector/contributions/node.js:1177:34)
+    at Object.<anonymous> (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/inspector/contributions/node.js:499:46)
+2025-3-3 10:58:43 - error: [Window] Cannot read property 'toString' of nullTypeError: Cannot read property 'toString' of null
+    at Object.setVecInput (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/dump.ccc:1:5591)
+    at /Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/types/vec3.ccc:1:154
+    at NodeList.forEach (<anonymous>)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/types/vec3.ccc:1:140)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/dump.ccc:1:4590)
+    at HTMLElement.updateRender (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/creator-ui-kit/dist/renderer.ccc:2:1611092)
+    at HTMLElement.render (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/creator-ui-kit/dist/renderer.ccc:2:1610771)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/inspector/contributions/node.js:1177:34)
+    at Object.<anonymous> (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/inspector/contributions/node.js:499:46)
+2025-3-3 10:58:44 - error: [Window] Cannot read property 'toString' of nullTypeError: Cannot read property 'toString' of null
+    at Object.setVecInput (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/dump.ccc:1:5591)
+    at /Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/types/vec3.ccc:1:154
+    at NodeList.forEach (<anonymous>)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/types/vec3.ccc:1:140)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/dump.ccc:1:4590)
+    at HTMLElement.updateRender (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/creator-ui-kit/dist/renderer.ccc:2:1611092)
+    at HTMLElement.render (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/creator-ui-kit/dist/renderer.ccc:2:1610771)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/inspector/contributions/node.js:1177:34)
+    at Object.<anonymous> (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/inspector/contributions/node.js:499:46)
+2025-3-3 10:58:44 - error: [Window] Cannot read property 'toString' of nullTypeError: Cannot read property 'toString' of null
+    at Object.setVecInput (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/dump.ccc:1:5591)
+    at /Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/types/vec3.ccc:1:154
+    at NodeList.forEach (<anonymous>)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/types/vec3.ccc:1:140)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/dump.ccc:1:4590)
+    at HTMLElement.updateRender (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/creator-ui-kit/dist/renderer.ccc:2:1611092)
+    at HTMLElement.render (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/creator-ui-kit/dist/renderer.ccc:2:1610771)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/inspector/contributions/node.js:1177:34)
+    at Object.<anonymous> (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/inspector/contributions/node.js:499:46)
+2025-3-3 10:58:45 - error: [Window] Cannot read property 'toString' of nullTypeError: Cannot read property 'toString' of null
+    at Object.setVecInput (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/dump.ccc:1:5591)
+    at /Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/types/vec3.ccc:1:154
+    at NodeList.forEach (<anonymous>)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/types/vec3.ccc:1:140)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/dump.ccc:1:4590)
+    at HTMLElement.updateRender (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/creator-ui-kit/dist/renderer.ccc:2:1611092)
+    at HTMLElement.render (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/creator-ui-kit/dist/renderer.ccc:2:1610771)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/inspector/contributions/node.js:1177:34)
+    at Object.<anonymous> (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/inspector/contributions/node.js:499:46)
+2025-3-3 10:58:45 - error: [Window] Cannot read property 'toString' of nullTypeError: Cannot read property 'toString' of null
+    at Object.setVecInput (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/dump.ccc:1:5591)
+    at /Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/types/vec3.ccc:1:154
+    at NodeList.forEach (<anonymous>)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/types/vec3.ccc:1:140)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/dump.ccc:1:4590)
+    at HTMLElement.updateRender (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/creator-ui-kit/dist/renderer.ccc:2:1611092)
+    at HTMLElement.render (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/creator-ui-kit/dist/renderer.ccc:2:1610771)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/inspector/contributions/node.js:1177:34)
+    at Object.<anonymous> (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/inspector/contributions/node.js:499:46)
+2025-3-3 10:58:46 - error: [Window] Cannot read property 'toString' of nullTypeError: Cannot read property 'toString' of null
+    at Object.setVecInput (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/dump.ccc:1:5591)
+    at /Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/types/vec3.ccc:1:154
+    at NodeList.forEach (<anonymous>)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/types/vec3.ccc:1:140)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/contributions/ui-kit/ui-prop/dump.ccc:1:4590)
+    at HTMLElement.updateRender (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/creator-ui-kit/dist/renderer.ccc:2:1611092)
+    at HTMLElement.render (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/creator-ui-kit/dist/renderer.ccc:2:1610771)
+    at Object.update (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/inspector/contributions/node.js:1177:34)
+    at Object.<anonymous> (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/inspector/contributions/node.js:499:46)
+2025-3-3 10:59:00 - info: [PreviewInEditor] 预览环境初始化完毕
+2025-3-3 10:59:27 - log: [PreviewInEditor] meshopt wasm decoder initialized
+2025-3-3 10:59:27 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+2025-3-3 10:59:27 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+2025-3-3 10:59:27 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+2025-3-3 10:59:28 - log: [PreviewInEditor] Cocos Creator v3.8.4
+2025-3-3 10:59:28 - log: [PreviewInEditor] Using custom pipeline: Builtin
+2025-3-3 10:59:28 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
+2025-3-3 10:59:28 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+2025-3-3 10:59:58 - info: [PreviewInEditor] 预览环境初始化完毕
+2025-3-3 11:00:23 - log: [PreviewInEditor] meshopt wasm decoder initialized
+2025-3-3 11:00:23 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+2025-3-3 11:00:23 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+2025-3-3 11:00:23 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+2025-3-3 11:00:23 - log: [PreviewInEditor] Cocos Creator v3.8.4
+2025-3-3 11:00:23 - log: [PreviewInEditor] Using custom pipeline: Builtin
+2025-3-3 11:00:24 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
+2025-3-3 11:00:24 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+2025-3-3 11:01:32 - info: [PreviewInEditor] 预览环境初始化完毕
+2025-3-3 11:02:34 - log: [PreviewInEditor] meshopt wasm decoder initialized
+2025-3-3 11:02:34 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+2025-3-3 11:02:35 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+2025-3-3 11:02:35 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+2025-3-3 11:02:36 - log: [PreviewInEditor] Cocos Creator v3.8.4
+2025-3-3 11:02:36 - log: [PreviewInEditor] Using custom pipeline: Builtin
+2025-3-3 11:02:36 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
+2025-3-3 11:02:36 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+2025-3-3 11:03:05 - info: [PreviewInEditor] 预览环境初始化完毕
+2025-3-3 11:03:14 - log: [PreviewInEditor] meshopt wasm decoder initialized
+2025-3-3 11:03:14 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+2025-3-3 11:03:14 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+2025-3-3 11:03:14 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+2025-3-3 11:03:14 - log: [PreviewInEditor] Cocos Creator v3.8.4
+2025-3-3 11:03:14 - log: [PreviewInEditor] Using custom pipeline: Builtin
+2025-3-3 11:03:15 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
+2025-3-3 11:03:15 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+2025-3-3 11:03:29 - info: [PreviewInEditor] 预览环境初始化完毕

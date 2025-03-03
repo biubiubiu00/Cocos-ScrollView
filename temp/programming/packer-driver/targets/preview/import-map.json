@@ -7,7 +7,8 @@
     "file:///Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline.ts": "./chunks/41/4109426b88add842c9c43cc2e1bc4e30668de93e.js",
     "file:///Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/ea/ea97adb72e4faec12843537599f72aa79dec8434.js",
     "file:///Users/lijian/Documents/Cocos-ScrollView/assets/scripts/ScrollItem.ts": "./chunks/cd/cd0030c9e20956fdf2cc6bf773812da6262cf735.js",
-    "file:///Users/lijian/Documents/Cocos-ScrollView/assets/scripts/ScrollView.ts": "./chunks/6a/6aa573b3be4b247b55d07317532377154a96467f.js"
+    "file:///Users/lijian/Documents/Cocos-ScrollView/assets/scripts/ScrollView.ts": "./chunks/6a/6aa573b3be4b247b55d07317532377154a96467f.js",
+    "file:///Users/lijian/Documents/Cocos-ScrollView/assets/scripts/scrollNew/ScrollHelper.ts": "./chunks/cb/cbc0b4494ac12a1040076085c4dbe5c1adf15858.js"
   },
   "scopes": {
     "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js": {
@@ -46,7 +47,11 @@
       "__unresolved_2": "./chunks/41/4109426b88add842c9c43cc2e1bc4e30668de93e.js",
       "__unresolved_3": "./chunks/ea/ea97adb72e4faec12843537599f72aa79dec8434.js",
       "__unresolved_4": "./chunks/cd/cd0030c9e20956fdf2cc6bf773812da6262cf735.js",
-      "__unresolved_5": "./chunks/6a/6aa573b3be4b247b55d07317532377154a96467f.js"
+      "__unresolved_5": "./chunks/6a/6aa573b3be4b247b55d07317532377154a96467f.js",
+      "__unresolved_6": "./chunks/cb/cbc0b4494ac12a1040076085c4dbe5c1adf15858.js"
+    },
+    "./chunks/cb/cbc0b4494ac12a1040076085c4dbe5c1adf15858.js": {
+      "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
     "./chunks/6a/6aa573b3be4b247b55d07317532377154a96467f.js": {
       "__unresolved_0": "./chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js",

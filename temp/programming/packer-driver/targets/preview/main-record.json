@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 16384.553833961487,
+      "mTimestamp": 7757.586457967758,
       "chunkId": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
       "imports": [
         {
@@ -598,7 +598,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 14467048.416874886,
+      "mTimestamp": 2618705.8799579144,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
@@ -684,6 +684,20 @@
               "column": 85
             }
           }
+        },
+        {
+          "value": "file:///Users/lijian/Documents/Cocos-ScrollView/assets/scripts/scrollNew/ScrollHelper.ts",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 7
+            },
+            "end": {
+              "line": 10,
+              "column": 97
+            }
+          }
         }
       ],
       "type": "esm",
@@ -727,6 +741,13 @@
           "resolved": {
             "type": "module",
             "url": "file:///Users/lijian/Documents/Cocos-ScrollView/assets/scripts/ScrollView.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/lijian/Documents/Cocos-ScrollView/assets/scripts/scrollNew/ScrollHelper.ts"
           },
           "messages": []
         }
@@ -837,7 +858,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1732592331233,
+      "mTimestamp": 1740968198988,
       "chunkId": "6a5019a719a9014c047e67aa1cf34453ab8392ce",
       "imports": [],
       "type": "esm",
@@ -1189,7 +1210,7 @@
     },
     "file:///Users/lijian/Documents/Cocos-ScrollView/assets/scripts/ScrollItem.ts": {
       "mTimestamp": {
-        "mtime": 1732603246391.485,
+        "mtime": 1732603246391.4849,
         "uuid": "03e1917e-2466-416a-aa64-7692083b8668"
       },
       "chunkId": "cd0030c9e20956fdf2cc6bf773812da6262cf735",
@@ -1210,6 +1231,58 @@
             "end": {
               "line": 1,
               "column": 55
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/lijian/Documents/Cocos-ScrollView/assets/scripts/scrollNew/ScrollHelper.ts": {
+      "mTimestamp": {
+        "mtime": 1740970815302.3296,
+        "uuid": "9a26f1e2-d6c8-4f6f-b4b5-2269129c9049"
+      },
+      "chunkId": "cbc0b4494ac12a1040076085c4dbe5c1adf15858",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 149
+            },
+            "end": {
+              "line": 8,
+              "column": 153
             }
           }
         }

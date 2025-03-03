@@ -1860,3 +1860,14 @@
 2024-11-26 15:53:38-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (2ms)
 2024-11-26 15:53:38-debug: run build task 整理部分构建选项内数据到 settings.json success in 2 ms√, progress: 15%
 2024-11-26 15:53:38-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:171.26MB, end 171.38MB, increase: 128.77KB
+2024-11-26 16:30:58-error: _updateAdaptResult Invalid size.
+2024-11-27 08:21:50-error: _updateAdaptResult Invalid size.
+2024-11-27 08:52:33-debug: refresh db internal success
+2024-11-27 08:52:33-debug: %cImport%c: /Users/lijian/Documents/Cocos-ScrollView/assets/res/imgbackground: #aaff85; color: #000;color: #000;
+2024-11-27 08:52:33-debug: %cImport%c: /Users/lijian/Documents/Cocos-ScrollView/assets/scripts/ScrollItem.tsbackground: #aaff85; color: #000;color: #000;
+2024-11-27 08:52:33-debug: refresh db assets success
+2024-11-27 08:52:33-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-11-27 08:52:33-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-11-27 08:52:33-debug: asset-db:refresh-all-database (167ms)
+2024-11-27 08:52:33-debug: asset-db:worker-effect-data-processing (2ms)
+2024-11-27 08:52:33-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
